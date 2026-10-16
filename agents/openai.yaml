@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Transcribe"
+  short_description: "用本地 Whisper 转录播客和视频，输出带时间戳的原文与中文总结"
+  default_prompt: "Use $media-transcribe to transcribe this podcast or video locally and deliver the original-language transcript and a Chinese summary."
